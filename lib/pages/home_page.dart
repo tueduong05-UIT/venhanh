@@ -117,7 +117,7 @@ class _HomePageState extends State<HomePage> {
                             borderRadius: BorderRadius.circular(3),
                           ),
                           child: Text(
-                            'Google Quick, Draw!',
+                            'Google\'s Quick, Draw!',
                             style: TextStyle(
                               fontWeight: FontWeight.bold,
                               color:
